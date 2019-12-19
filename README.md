@@ -1,2 +1,2 @@
-# IDS2019_Population-Characteristics
+# IDS2019_The Effect of Population and Economic Characteristics on CO2 Emissions
 Univeristy of Tartu Introduction to Data Science course project 
